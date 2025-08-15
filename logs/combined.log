@@ -1,0 +1,185 @@
+[2025-01-20 13:46:50] INFO: Server is running on port 3000
+[2025-01-20 14:20:28] INFO: Server is running on port 3000
+[2025-01-20 14:21:51] INFO: Server is running on port 3000
+[2025-01-20 14:29:36] INFO: Server is running on port 3000
+[2025-01-20 14:59:12] INFO: Server is running on port 3000
+[2025-01-20 14:59:34] DEBUG: No valid message found in webhook event:
+[2025-01-20 14:59:42] DEBUG: No valid message found in webhook event:
+[2025-01-20 14:59:57] DEBUG: No valid message found in webhook event:
+[2025-01-20 14:59:58] DEBUG: No valid message found in webhook event:
+[2025-01-20 14:59:59] DEBUG: No valid message found in webhook event:
+[2025-01-20 15:00:23] DEBUG: No valid message found in webhook event:
+[2025-01-20 15:01:39] DEBUG: No valid message found in webhook event:
+[2025-01-20 15:01:44] DEBUG: No valid message found in webhook event:
+[2025-01-20 15:02:17] DEBUG: No valid message found in webhook event:
+[2025-01-20 15:02:36] DEBUG: No valid message found in webhook event:
+[2025-01-20 15:03:02] INFO: Server is running on port 3000
+[2025-01-20 15:03:08] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:03:10] DEBUG: Received a status update:
+[2025-01-20 15:03:10] DEBUG: Received a status update:
+[2025-01-20 15:03:10] DEBUG: Received a status update:
+[2025-01-20 15:03:13] DEBUG: Received a status update:
+[2025-01-20 15:04:33] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:04:35] DEBUG: Received a status update:
+[2025-01-20 15:04:35] DEBUG: Received a status update:
+[2025-01-20 15:06:31] DEBUG: Received a status update:
+[2025-01-20 15:06:40] DEBUG: Received a status update:
+[2025-01-20 15:07:23] DEBUG: Received a status update:
+[2025-01-20 15:09:19] DEBUG: Received a status update:
+[2025-01-20 15:10:01] DEBUG: Received a status update:
+[2025-01-20 15:10:27] DEBUG: Received a status update:
+[2025-01-20 15:10:56] INFO: Server is running on port 3000
+[2025-01-20 15:11:07] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:11:59] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:21:35] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:21:40] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:21:57] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:22:03] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:22:07] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:22:11] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:22:13] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:23:06] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 15:23:34] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 15:27:37] INFO: Received message type: "image" from 5514996731059
+[2025-01-20 15:27:56] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:08:48] INFO: Server is running on port 3000
+[2025-01-20 16:09:47] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:09:57] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:05] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:09] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:19] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:28] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:31] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:33] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:36] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:10:50] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 16:11:01] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 16:11:17] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:11:21] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:04] INFO: Server is running on port 3000
+[2025-01-20 16:16:09] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:17] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:27] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:34] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:40] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:50] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:54] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:16:57] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:17:01] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:17:27] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 16:17:48] INFO: Received message type: "image" from 5514996731059
+[2025-01-20 16:17:59] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:18:07] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:09] INFO: Server is running on port 3000
+[2025-01-20 16:19:15] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:25] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:32] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:39] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:45] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:53] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:56] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:19:58] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:20:01] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:20:15] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 16:20:31] INFO: Received message type: "image" from 5514996731059
+[2025-01-20 16:20:45] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:20:51] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:22:19] INFO: Server is running on port 3000
+[2025-01-20 16:22:24] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:22:34] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:22:46] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:22:50] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:22:59] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:23:13] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:23:15] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:23:17] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:23:19] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:23:32] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 16:23:44] INFO: Received message type: "image" from 5514996731059
+[2025-01-20 16:23:54] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:24:00] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:35:52] INFO: Server is running on port 3000
+[2025-01-20 16:36:04] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:36:18] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:36:30] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:36:34] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:36:47] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:36:55] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:37:00] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:37:04] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:37:08] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:37:20] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 16:37:34] INFO: Received message type: "image" from 5514996731059
+[2025-01-20 16:37:45] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:37:47] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:40:34] INFO: Server is running on port 3000
+[2025-01-20 16:40:46] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:40:52] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:40:59] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:41:03] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:41:08] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:41:14] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:41:16] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:41:18] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:41:21] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:41:34] INFO: Received message type: "video" from 5514996731059
+[2025-01-20 16:41:44] INFO: Received message type: "image" from 5514996731059
+[2025-01-20 16:41:57] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:42:03] INFO: Received message type: "text" from 5514996731059
+[2025-01-20 16:42:10] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 11:58:14] INFO: Server is running on port 3000
+[2025-01-21 11:58:51] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 12:39:56] INFO: Server is running on port 3000
+[2025-01-21 12:42:04] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 12:43:06] INFO: Server is running on port 3000
+[2025-01-21 12:43:13] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 12:43:37] INFO: Server is running on port 3000
+[2025-01-21 12:43:42] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 12:43:55] INFO: Received message type: "interactive" from 5514996731059
+[2025-01-21 12:56:19] INFO: Server is running on port 3000
+[2025-01-21 12:56:35] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 12:57:08] INFO: Server is running on port 3000
+[2025-01-21 12:57:11] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 12:57:23] INFO: Received message type: "interactive" from 5514996731059
+[2025-01-21 12:59:27] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 12:59:34] INFO: Received message type: "interactive" from 5514996731059
+[2025-01-21 12:59:40] INFO: Received message type: "interactive" from 5514996731059
+[2025-01-21 13:06:49] INFO: Server is running on port 3000
+[2025-01-21 13:08:01] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 13:08:19] INFO: Received message type: "interactive" from 5514996731059
+[2025-01-21 13:08:41] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 13:08:51] INFO: Server is running on port 3000
+[2025-01-21 13:08:55] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 13:18:44] INFO: Server is running on port 3000
+[2025-01-21 13:19:00] INFO: Received message type: "text" from 5514996731059
+[2025-01-21 13:38:23] INFO: Server is running on port 3000
+[2025-01-22 12:00:10] INFO: Server is running on port 3000
+[2025-01-22 12:22:06] INFO: WEBHOOK_VERIFIED
+[2025-01-22 12:27:06] INFO: Received message type: "text" from 5514996731059
+[2025-01-22 12:27:26] INFO: Received message type: "text" from 5514996731059
+[2025-01-22 17:45:18] INFO: Server is running on port 3000
+[2025-01-23 15:23:01] INFO: Server is running on port 3000
+[2025-01-23 15:42:05] INFO: WEBHOOK_VERIFIED
+[2025-01-23 15:42:22] INFO: Received message type: "text" from 554291549728
+[2025-01-23 15:48:01] INFO: Received message type: "text" from 5514996731059
+[2025-01-23 15:48:09] INFO: Received message type: "text" from 554291549728
+[2025-01-23 16:05:23] INFO: Server is running on port 3000
+[2025-01-23 16:05:37] INFO: Received message type: "text" from 5514996731059
+[2025-01-23 16:06:19] INFO: Server is running on port 3000
+[2025-01-23 16:06:27] INFO: Received message type: "text" from 5514996731059
+[2025-01-23 16:06:46] INFO: Received message type: "text" from 554291549728
+[2025-01-23 16:06:54] INFO: Received message type: "interactive" from 554291549728
+[2025-01-23 16:07:08] INFO: Received message type: "interactive" from 554291549728
+[2025-01-23 16:07:20] INFO: Received message type: "interactive" from 5514996731059
+[2025-01-23 16:30:03] INFO: Received message type: "text" from 554291549728
+[2025-01-23 17:30:16] INFO: Received message type: "text" from 554291549728
+[2025-01-24 10:32:54] INFO: Server is running on port 3000
+[2025-01-27 11:48:21] INFO: Server is running on port 3000
+[2025-01-27 11:51:05] INFO: WEBHOOK_VERIFIED
+[2025-01-27 11:51:41] INFO: Received message type: "text" from 5514996731059
+[2025-01-27 11:51:49] INFO: Received message type: "interactive" from 5514996731059
+[2025-01-27 11:56:08] INFO: Server is running on port 3000
+[2025-01-27 11:56:43] INFO: Server is running on port 3000
+[2025-01-27 13:34:40] INFO: Server is running on port 3000
+[2025-01-27 13:46:43] INFO: Server is running on port 3000
+[2025-01-27 13:48:39] INFO: Server is running on port 3000

@@ -1,0 +1,8 @@
+# .dockerignore – copie para a raiz do projeto
+node_modules
+npm-debug.log
+*.sock
+*.lock
+.git
+Dockerfile*
+README*
